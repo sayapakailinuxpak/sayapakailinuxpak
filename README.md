@@ -1,4 +1,4 @@
-Think first, code later.
+<samp>Think first, code later.</samp>
 <br>
 <br>
 <br>
