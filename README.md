@@ -6,4 +6,4 @@
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=sayapakailinuxpak&color=c1121f&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sayapakailinuxpak&color=1f6feb&style=for-the-badge)
