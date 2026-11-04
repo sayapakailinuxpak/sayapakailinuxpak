@@ -1,5 +1,5 @@
-![Static Badge](https://img.shields.io/badge/mobile%20developer-white?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/ux%2Fux%20enthusiast-e5383b?style=for-the-badge)
+<!-- ![Static Badge](https://img.shields.io/badge/mobile%20developer-white?style=for-the-badge) -->
+<!-- ![Static Badge](https://img.shields.io/badge/ux%2Fux%20enthusiast-e5383b?style=for-the-badge) -->
 <br>
 <br>
 <samp>Think first, code later.</samp>
